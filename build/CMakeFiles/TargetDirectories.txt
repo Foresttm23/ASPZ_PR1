@@ -1,5 +1,0 @@
-/home/forest/ASPZ/ASPZ_PR1/build/CMakeFiles/process.dir
-/home/forest/ASPZ/ASPZ_PR1/build/CMakeFiles/process1.dir
-/home/forest/ASPZ/ASPZ_PR1/build/CMakeFiles/ASPZ_PR1.dir
-/home/forest/ASPZ/ASPZ_PR1/build/CMakeFiles/edit_cache.dir
-/home/forest/ASPZ/ASPZ_PR1/build/CMakeFiles/rebuild_cache.dir

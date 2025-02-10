@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/ASPZ_PR1.dir/main.c.o CMakeFiles/ASPZ_PR1.dir/input.c.o CMakeFiles/ASPZ_PR1.dir/output.c.o -o ASPZ_PR1  -Wl,-rpath,/home/forest/ASPZ/ASPZ_PR1/build libprocess.so libprocess1.so 
