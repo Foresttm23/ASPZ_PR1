@@ -1,1 +1,1 @@
-/usr/bin/cc -fPIC -shared -Wl,-soname,libprocess.so -o lib/libprocess.so CMakeFiles/process.dir/mylibs/process.c.o 
+/usr/bin/cc -fPIC -shared -Wl,-soname,libprocess.so -o libprocess.so CMakeFiles/process.dir/mylibs/process.c.o 

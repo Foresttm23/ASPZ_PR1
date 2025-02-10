@@ -134,8 +134,8 @@ CMakeFiles/process1.dir/clean:
 # Target rules for target CMakeFiles/ASPZ_PR1.dir
 
 # All Build rule for target.
-CMakeFiles/ASPZ_PR1.dir/all: CMakeFiles/process1.dir/all
 CMakeFiles/ASPZ_PR1.dir/all: CMakeFiles/process.dir/all
+CMakeFiles/ASPZ_PR1.dir/all: CMakeFiles/process1.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ASPZ_PR1.dir/build.make CMakeFiles/ASPZ_PR1.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ASPZ_PR1.dir/build.make CMakeFiles/ASPZ_PR1.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/forest/ASPZ/ASPZ_PR1/build/CMakeFiles --progress-num=1,2,3,4 "Built target ASPZ_PR1"

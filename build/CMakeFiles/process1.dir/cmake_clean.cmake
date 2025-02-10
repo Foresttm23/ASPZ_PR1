@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/process1.dir/usr/lib/process1.c.o"
   "CMakeFiles/process1.dir/usr/lib/process1.c.o.d"
-  "lib/libprocess1.pdb"
-  "lib/libprocess1.so"
+  "libprocess1.pdb"
+  "libprocess1.so"
 )
 
 # Per-language clean rules from dependency scanning.
