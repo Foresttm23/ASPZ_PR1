@@ -1,1 +1,1 @@
-void process_data(char* text);
+void process1_data(char* text);

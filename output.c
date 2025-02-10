@@ -2,5 +2,5 @@
 #include <stdio.h>
 
 void print_output(char* result) {
-    printf("%s", result);
+    printf("\n%s\n", result);
 }
