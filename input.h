@@ -1,0 +1,1 @@
+void get_input(char *text, int size);
